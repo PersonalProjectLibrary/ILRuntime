@@ -1,2 +1,6 @@
-# ILRuntime
-ILRuntime With U3D
+# ILRuntimeU3D
+Unity3D demo project for ILRuntime
+
+这个是ILRuntime的U3D示例工程
+
+这里用于个人学习和测试ILRuntime的使用
